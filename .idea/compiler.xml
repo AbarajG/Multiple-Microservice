@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microserviceOne" />
-        <module name="microserviceTwo" />
+        <module name="restTemplatemicroOne" />
         <module name="UserService" />
+        <module name="restTemplatemicroTwo" />
         <module name="EurekaService" />
+        <module name="microserviceTwo" />
         <module name="OpenFeing" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,8 @@
       <module name="microserviceOne" target="17" />
       <module name="microserviceTwo" target="17" />
       <module name="OpenFeing" target="17" />
+      <module name="restTemplatemicroOne" target="17" />
+      <module name="restTemplatemicroTwo" target="17" />
       <module name="UserService" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -28,6 +32,8 @@
       <module name="UserService" options="-parameters" />
       <module name="microserviceOne" options="-parameters" />
       <module name="microserviceTwo" options="-parameters" />
+      <module name="restTemplatemicroOne" options="-parameters" />
+      <module name="restTemplatemicroTwo" options="-parameters" />
     </option>
   </component>
 </project>

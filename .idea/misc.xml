@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/microserviceTwo/pom.xml" />
         <option value="$PROJECT_DIR$/UserService/pom.xml" />
         <option value="$PROJECT_DIR$/OpenFeing/pom.xml" />
+        <option value="$PROJECT_DIR$/restTemplatemicroOne/pom.xml" />
+        <option value="$PROJECT_DIR$/restTemplatemicroTwo/pom.xml" />
       </list>
     </option>
   </component>

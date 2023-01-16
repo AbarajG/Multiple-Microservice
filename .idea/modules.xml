@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceOne/microserviceOne.iml" filepath="$PROJECT_DIR$/microserviceOne/microserviceOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceTwo/microserviceTwo.iml" filepath="$PROJECT_DIR$/microserviceTwo/microserviceTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restTemplatemicroOne/restTemplatemicroOne.iml" filepath="$PROJECT_DIR$/restTemplatemicroOne/restTemplatemicroOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restTemplatemicroTwo/restTemplatemicroTwo.iml" filepath="$PROJECT_DIR$/restTemplatemicroTwo/restTemplatemicroTwo.iml" />
     </modules>
   </component>
 </project>
