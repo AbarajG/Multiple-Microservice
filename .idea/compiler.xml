@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microserviceOne" />
+        <module name="microserviceTwo" />
+        <module name="UserService" />
+        <module name="EurekaService" />
+        <module name="OpenFeing" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EurekaService" target="17" />
+      <module name="microserviceOne" target="17" />
+      <module name="microserviceTwo" target="17" />
+      <module name="OpenFeing" target="17" />
+      <module name="UserService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EurekaService" options="-parameters" />
+      <module name="OpenFeing" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+      <module name="microserviceOne" options="-parameters" />
+      <module name="microserviceTwo" options="-parameters" />
+    </option>
+  </component>
+</project>
