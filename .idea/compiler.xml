@@ -12,11 +12,13 @@
         <module name="restTemplatemicroTwo" />
         <module name="EurekaService" />
         <module name="microserviceTwo" />
+        <module name="gateway" />
         <module name="OpenFeing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="EurekaService" target="17" />
+      <module name="gateway" target="17" />
       <module name="microserviceOne" target="17" />
       <module name="microserviceTwo" target="17" />
       <module name="OpenFeing" target="17" />
@@ -30,6 +32,7 @@
       <module name="EurekaService" options="-parameters" />
       <module name="OpenFeing" options="-parameters" />
       <module name="UserService" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="microserviceOne" options="-parameters" />
       <module name="microserviceTwo" options="-parameters" />
       <module name="restTemplatemicroOne" options="-parameters" />

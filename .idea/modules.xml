@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/EurekaService/EurekaService.iml" filepath="$PROJECT_DIR$/EurekaService/EurekaService.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenFeing/OpenFeing.iml" filepath="$PROJECT_DIR$/OpenFeing/OpenFeing.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceOne/microserviceOne.iml" filepath="$PROJECT_DIR$/microserviceOne/microserviceOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/microserviceTwo/microserviceTwo.iml" filepath="$PROJECT_DIR$/microserviceTwo/microserviceTwo.iml" />
